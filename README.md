@@ -23,3 +23,6 @@
 2. [Functions and Lists in Python](https://www.youtube.com/watch?v=INBfuB8nm3w)
 3. [Numerical methods. Plotting](https://www.youtube.com/watch?v=VTDLGReAujk)
 4. [Working with Data](https://www.youtube.com/watch?v=NI7rAKRQQJo)
+
+## General Resources
+1. [Practical Python for Astronomers](https://python4astronomers.github.io/)
